@@ -34,7 +34,8 @@ charts/ — exported visualisations
 analysis/ — Python script
 
 
-## Dashboard Preview
+### Dashboard Preview
+
 ![Career Phases](01_Career_Phases.png)
 ![Season Trend](02_Season_Trend.png)
 ![Finishing Quality](Finishing%20quality%20by%20season.png)
