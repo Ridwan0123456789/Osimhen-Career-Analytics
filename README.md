@@ -35,9 +35,9 @@ analysis/ — Python script
 
 
 ### Dashboard Preview
-![Career Phases](01_Career_Phases.png)
-![Season Trend](02_Season_Trend.png)
-![Finishing Quality](Finishing%20quality%20by%20season.png)
+![Career Phases](charts/01_Career_Phases.png)
+![Season Trend](charts/02_Season_Trend.png)
+![Finishing Quality](charts/03_Finishing_Quality.png)
 
 ## Data Caveat
 All statistics cover domestic league appearances only. Cup, Champions League and international appearances are excluded.
